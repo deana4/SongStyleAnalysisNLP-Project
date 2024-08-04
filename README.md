@@ -34,24 +34,6 @@ Another file named `classifier` includes the `Classifier` class, which activates
 
 **Important detail**: Extracting the song’s style was challenging due to a lack of APIs capable of this. We attached the artist’s main music style to each song. This resulted in some outliers for each style class. To overcome this, we batched each group into batches of different sizes.
 
-## Overlook on the Data
-
-The five primary music styles represented in the data are:
-
-- Pop & Rock
-- Mizrahi & Pop
-- Mizrahi
-- Folk & Pop
-- Pop
-
-Most of the data is related to Pop music, either by itself or in combination with other styles.
-
-### Top 30 Artists by Song Count
-
-Most artists in the dataset were born between 1940 and 1990, with a significant concentration in the 1950s and 1960s.
-
-### Most Songs Released Between 2000 and 2023
-
 ## Hypotheses
 
 We formulated several hypotheses to test:
