@@ -48,4 +48,4 @@ We formulated several hypotheses to test:
 8. **Style Similarity**: Genres like ‘Folk, Pop’ and ‘Pop, Soul’ are close to each other by their syntax complexity.
 
 
-For more information or to contribute to the project, please visit the [GitHub repository](#).
+For more information or to contribute to the project, please visit the [GitHub repository](https://github.com/deana4/SongStyleAnalysisNLP-Project).
