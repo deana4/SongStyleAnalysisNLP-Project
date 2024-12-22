@@ -46,6 +46,3 @@ We formulated several hypotheses to test:
 6. **Oriental Songs Complexity**: Oriental songs are inferior in complexity levels (syntax and lexical).
 7. **Yehoram Gaon’s Creativity**: Songs by Yehoram Gaon are less creative (more banal) than other songs.
 8. **Style Similarity**: Genres like ‘Folk, Pop’ and ‘Pop, Soul’ are close to each other by their syntax complexity.
-
-
-For more information or to contribute to the project, please visit the [GitHub repository](https://github.com/deana4/SongStyleAnalysisNLP-Project).
